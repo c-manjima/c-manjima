@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Flutter developer from India</h3>
 
 
-
  
 - 📫 How to reach me **manjima3890@gmail.com**
 
